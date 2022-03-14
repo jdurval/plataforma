@@ -6,8 +6,8 @@
 
 from ipywidgets import widgets
 #from datetime import date
-from matplotlib import dates 
 import numpy as np
+from matplotlib import dates
 #warnings.filterwarnings('ignore')
 import pandas as pd
 from scipy.interpolate import griddata #, bisplrep, bisplev
